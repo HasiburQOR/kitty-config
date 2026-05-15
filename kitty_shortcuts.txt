@@ -1,0 +1,88 @@
+╔══════════════════════════════════════════════════════════════╗
+║           KITTY TERMINAL — SHORTCUTS CHEATSHEET              ║
+║                    by devHasib × Claude                      ║
+╚══════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  COPY / PASTE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Ctrl+Shift+C          Copy to clipboard
+  Ctrl+Shift+V          Paste from clipboard
+  Ctrl+Shift+S          Paste from selection
+  Shift+Insert          Paste from selection
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  TABS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Ctrl+Shift+T          New tab (same folder)
+  Ctrl+Shift+W          Close tab
+  Ctrl+Shift+Right      Next tab
+  Ctrl+Shift+Left       Previous tab
+  Ctrl+Shift+1~5        Jump to tab 1-5
+  Ctrl+Shift+.          Move tab forward
+  Ctrl+Shift+,          Move tab backward
+  Ctrl+Shift+Alt+T      Rename tab
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SPLIT PANES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Ctrl+Shift+Enter      New window (same folder)
+  Ctrl+Shift+D          Split horizontal
+  Ctrl+Shift+Shift+D    Split vertical
+  Ctrl+Shift+]          Next pane
+  Ctrl+Shift+[          Previous pane
+  Ctrl+Shift+R          Resize pane
+  Ctrl+Shift+L          Cycle layouts
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  FONT SIZE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Ctrl+Shift+=          Zoom in
+  Ctrl+Shift+-          Zoom out
+  Ctrl+Shift+0          Reset zoom
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SCROLLBACK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Ctrl+Shift+Up         Scroll line up
+  Ctrl+Shift+Down       Scroll line down
+  Ctrl+Shift+Page Up    Scroll page up
+  Ctrl+Shift+Page Down  Scroll page down
+  Ctrl+Shift+Home       Scroll to top
+  Ctrl+Shift+End        Scroll to bottom
+  Ctrl+Shift+H          Open scrollback in pager
+  Ctrl+Shift+G          Show last command output
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  URL / HINTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Ctrl+Shift+E          Open URL with keyboard
+  Ctrl+Shift+P → F      Grab file path
+  Ctrl+Shift+P → L      Grab line
+  Ctrl+Shift+P → W      Grab word
+  Ctrl+Shift+P → H      Grab hash
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  TRANSPARENCY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Ctrl+Shift+A → M      Increase opacity
+  Ctrl+Shift+A → L      Decrease opacity
+  Ctrl+Shift+A → 1      Full opacity
+  Ctrl+Shift+A → D      Default opacity
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  MISC
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Ctrl+Shift+U          Unicode / emoji input
+  Ctrl+Shift+F10        Toggle maximized
+  Ctrl+Shift+F11        Toggle fullscreen
+  Ctrl+Shift+F5         Reload config
+  Ctrl+Shift+F6         Debug config
+  Ctrl+Shift+Q          Close window
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SYSTEM SHORTCUT (set via GNOME)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Super+Enter           Launch kitty terminal
+
+══════════════════════════════════════════════════════════════
